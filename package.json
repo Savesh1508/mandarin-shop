@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@jamescoyle/vue-icon": "jamescoyle/vue-icon",
+    "@jamescoyle/vue-icon": "https://github.com/jamescoyle/vue-icon.git",
     "@mdi/js": "^7.3.67",
     "axios": "^1.6.2",
     "boxicons": "^2.1.4",
