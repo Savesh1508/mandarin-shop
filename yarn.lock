@@ -36,7 +36,7 @@
     wrap-ansi "^8.1.0"
     wrap-ansi-cjs "npm:wrap-ansi@^7.0.0"
 
-"@jamescoyle/vue-icon@jamescoyle/vue-icon":
+"@jamescoyle/vue-icon@https://github.com/jamescoyle/vue-icon.git":
   version "0.1.2"
   resolved "git+ssh://git@github.com/jamescoyle/vue-icon.git#d3f792a4517077124e2902e74d8b51db53dbfd9c"
 
